@@ -1,0 +1,2 @@
+git remote add origin ssh://git@192.168.25.156/home/git/firstgit remote add origin ssh://git@192.168.25.156/home/git/first
+s
